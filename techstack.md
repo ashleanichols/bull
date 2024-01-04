@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ashleanichols/bull is built on the following main stack:
+
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -18,11 +19,13 @@ ashleanichols/bull is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ashleanichols/bull is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
@@ -39,14 +42,15 @@ ashleanichols/bull is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ashleanichols/bull](https://github.com/ashleanichols/bull)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|11/09/23 <br/>Report generated|
+|43<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -233,9 +237,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -252,15 +256,18 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-node](https://www.npmjs.com/eslint-plugin-node)|v8.0.1|04/23/21|Manuel Astudillo |MIT|N/A|
 |[expect.js](https://www.npmjs.com/expect.js)|v0.3.1|06/06/15|Manuel Astudillo |MIT|N/A|
 |[get-port](https://www.npmjs.com/get-port)|v5.1.1|08/11/20|Manuel Astudillo |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.8|08/12/20|Manuel Astudillo |MIT|N/A|
 |[ioredis](https://www.npmjs.com/ioredis)|v4.27.5|06/09/21|Manuel Astudillo |MIT|N/A|
 |[istanbul](https://www.npmjs.com/istanbul)|v0.4.5|08/13/17|Manuel Astudillo |BSD-3-Clause|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v8.2.1|08/11/20|Manuel Astudillo |MIT|N/A|
 |[mocha-lcov-reporter](https://www.npmjs.com/mocha-lcov-reporter)|v1.3.0|08/11/20|Manuel Astudillo |BSD-2-Clause|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.1|01/22/19|Manuel Astudillo |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[nyc](https://www.npmjs.com/nyc)|v15.1.0|07/02/13|Manuel Astudillo |ISC|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.4.2|04/23/21|Manuel Astudillo |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[util.promisify](https://www.npmjs.com/util.promisify)|v1.1.1|02/13/20|Manuel Astudillo |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v3.4.0|08/11/20|Manuel Astudillo |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
