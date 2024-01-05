@@ -2,7 +2,7 @@ repo_name: ashleanichols/bull
 report_id: 4cfd6d8534ed6648e4c68b58128b0e77
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-04T15:07:16+00:00'
+timestamp: '2024-01-05T09:13:25+00:00'
 requested_by: semantic-release-bot
 provider: github
 branch: develop
