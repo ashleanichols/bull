@@ -2,7 +2,7 @@ repo_name: ashleanichols/bull
 report_id: 4cfd6d8534ed6648e4c68b58128b0e77
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:13:25+00:00'
+timestamp: '2024-02-29T18:17:02+00:00'
 requested_by: semantic-release-bot
 provider: github
 branch: develop
@@ -145,7 +145,7 @@ tools:
   last_updated_by: Manuel Astudillo
   last_updated_on: 2013-07-02 18:10:05.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
